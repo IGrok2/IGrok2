@@ -18,15 +18,13 @@
   <a href="https://x.com/IljaPhylexCloud" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="" target="_blank">
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=IGrok2.IGrok2&"  />
+  </a>
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=IGrok2.IGrok2&"  />
-</div>
-
-###
 
 <h1 align="center"></h1>
 
